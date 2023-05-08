@@ -1,7 +1,7 @@
 {
-  "{0} {0} {0} Contributors, please add your names/usernames separated by comas (for credit purposes)" : "@rubnium, @JMoreno97, @dalbitresb12, @marticliment",
+  "{0} {0} {0} Contributors, please add your names/usernames separated by comas (for credit purposes)" : "@rubnium, @JMoreno97, @dalbitresb12, @marticliment, @riglesias77",
   "{0} {1} failed" : "La {1} de {0} ha fallado.",
-  "{0} aborted" : "{0} avortada",
+  "{0} aborted" : "{0} abortada",
   "{0} can be updated" : "{0} puede actualizarse.",
   "{0} days" : "{0} dias",
   "{0} failed" : "{0} ha fallado.",
@@ -273,7 +273,7 @@
   "There are two main reasons to not run WingetUI as administrator:\n The first one is that the Scoop package manager might cause problems with some commands when ran with administrator rights.\n The second one is that running WingetUI as administrator means that any package that you download will be ran as administrator (and this is not safe).\n Remeber that if you need to install a specific package as administrator, you can always right-click the item -> Install/Update/Uninstall as administrator." : "Hay dos razones principales para no ejecutar WingetUI como administrador: La primera es que Scoop puede causar problemas con algunos comandos si se ejecutan como administrador La segunda es que ejecutando WingetUI con derechos de administrador significa que cualquier paquete que descargue a través de WingetUI se ejecutará como administrador automáticamente (y esto no es seguro). Recuerde que puede instalar un paquete como administrador haciendo clic derecho en él -> Instalar/Actualizar/Desinstalar como administrador.",
   "There is an installation in progress. If you close WingetUI, the installation may fail and have unexpected results. Do you still want to quit WingetUI?" : "Hay una inatalación en progreso. Si cierras WingetUI, la instalación podría fallar y tener resultados inesperados. Seguro que quieres cerrar WingetUI?",
   "This is probably due to the fact that the package you were sent was removed, or published on a package manager that you don't have enabled. The received ID is {0}" : "Esto probablemente se deba al hecho de que el paquete que le enviaron se eliminó o se publicó en un administrador de paquetes que no tiene habilitado. El ID recibido es {0}\n",
-  "This process is running with administrator privileges" : "Este proceso se está ejecunatdo con derechos de administrador",
+  "This process is running with administrator privileges" : "Este proceso se está ejecutando con derechos de administrador",
   "This project has no connection with the official {0} project — it's completely unofficial." : "Este proyecto no tiene conexión alguna con el proyecto oficial de {0} — es completamente no oficial.",
   "Translators" : "Traductores",
   "Type here the name and the URL of the bucket you want to add, separated by a space." : "Escriba aquí el nombre y el enlace del bucket que quiere añadir, separado por un espacio.",
